@@ -2,14 +2,20 @@
 title: Home
 layout: default
 ---
-In Iceland, lifting stones were traditionally used to qualify men for work on fishing boats. One such set of stones can be found on the beach of Djúpalónssandur at the foot of Snæfellsjökull. Another set can be found at Hvallátur. To qualify, a man would have to lift at least the hálfdrættingur stone to hip-height onto a ledge. Lifting heavier stones would entitle the man to a greater share of the catch.<br><br/>
+
+>Too little information and you're blind, too much and you're blinded.<br>
+  `"The 7 1/2 Deaths of Eveyln Hardcastle"`
 
 
-The stones at Djúpalónssandur are classified as:<br>
+<u>Shows:</u><br>  
+- Brokenwood Mysteries<br>
+- Criminal Minds <br>
+- Foyle's War <br>
+- Guardian; 镇魂 <br>
+- Lewis<br>
+- Midsomer Murders<br>
+- Miss Fisher's Murder Mysteries<br>
+- My Roommate is a Detective; 民国奇探 <br>
+- White Collar<br>
 
-- amlóði ("useless") at 23 kg (50.7 pounds)<br>
-- hálfdrættingur ("weakling") at 54 kg (119 pounds)<br>
-- hálfsterkur ("half strength") at 100 kg (220.5 pounds)<br>
-- fullsterkur ("full strength") weighing 154 kg (339.5 pounds)<br>
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Lifting_stone)
+Source: [Goodreads](https://www.goodreads.com/list/tag/mystery)
