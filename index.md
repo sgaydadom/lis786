@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-permalink: C:\Users\gayda\OneDrive\Documents\GitHub\lis786
 ---
 In Iceland, lifting stones were traditionally used to qualify men for work on fishing boats. One such set of stones can be found on the beach of Djúpalónssandur at the foot of Snæfellsjökull. Another set can be found at Hvallátur. To qualify, a man would have to lift at least the hálfdrættingur stone to hip-height onto a ledge. Lifting heavier stones would entitle the man to a greater share of the catch.<br><br/>
 
